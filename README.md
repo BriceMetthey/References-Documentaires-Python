@@ -1,4 +1,4 @@
-# Références Documentaires Python
+# Références documentaires concernant l'écosystème Python
 
 
 

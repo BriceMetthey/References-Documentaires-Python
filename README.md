@@ -10,7 +10,7 @@
 
 ## Cours Python
 
-* [Cours videos](https://www.youtube.com/watch?v=HWxBtxPBCAc&list=PLrSOXFDHBtfHg8fWBd7sKPxEmahwyVBkC)
+* [Cours videos youtube complet](https://www.youtube.com/watch?v=HWxBtxPBCAc&list=PLrSOXFDHBtfHg8fWBd7sKPxEmahwyVBkC)
 
 ## Frameworks Python
 

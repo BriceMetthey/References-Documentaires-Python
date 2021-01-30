@@ -6,7 +6,7 @@
 
 * [Site Python Officiel](https://www.python.org)
 * [Tout l'univers Python](https://www.geeksforgeeks.org/python-programming-language/)
-* [prog-parallele python](https://openclassrooms.com/fr/courses/235344-apprenez-a-programmer-en-python/2235545-faites-de-la-programmation-parallele-avec-threading)
+* [Async IO in Python]https://realpython.com/async-io-python/
 * [multithreading vs multiprocessing python](https://blog.usejournal.com/multithreading-vs-multiprocessing-in-python-c7dc88b50b5b)
 * [asyncio vs threading vs multiprocessing](https://medium.com/analytics-vidhya/asyncio-threading-and-multiprocessing-in-python-4f5ff6ca75e8)
 

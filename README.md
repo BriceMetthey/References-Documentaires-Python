@@ -8,6 +8,10 @@
 * [prog-parallele python](https://openclassrooms.com/fr/courses/235344-apprenez-a-programmer-en-python/2235545-faites-de-la-programmation-parallele-avec-threading)
 * [multithreading vs multiprocessing python](https://blog.usejournal.com/multithreading-vs-multiprocessing-in-python-c7dc88b50b5b)
 
+## Partie Performances
+
+* [Site présentant un livre mais la table des matières donne des axes de recherches](https://scaling-python.com/)
+
 ## Cours Python
 
 * [Cours videos youtube complet](https://www.youtube.com/watch?v=HWxBtxPBCAc&list=PLrSOXFDHBtfHg8fWBd7sKPxEmahwyVBkC)
